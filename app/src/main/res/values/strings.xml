@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">T@TRIS_by_MSH</string>
+
+    <!--game screen start-->
+    <string name="next_figure">Следующая фигура:</string>
+    <!--game screen end-->
+
+    <!--terms and rules screen start-->
+    <string name="terms_1">УПРАВЛЕНИЕ</string>
+    <string name="terms_2">1) Повернуть фигуру(по часовой) - один\nTAP по экрану</string>
+    <string name="terms_3">2) Сдвинуть фигуру влево/вправо - SCROLL\nвлево/вправо</string>
+    <string name="terms_4">3) Опустить фигуру вниз - SCROLL вниз</string>
+    <string name="terms_5">ПРАВИЛА</string>
+    <string name="terms_6">1) Через каждые набранные 500 очков\nlevel игры увеличивается\n(повышается скорость падения фигур)</string>
+    <string name="terms_7">2) Как только ряд заполняется фигурами,\nон "очищается"</string>
+    <!--terms and rules screen end-->
+
+    <!--about developers screen start-->
+    <string name="about_developers_1">О разработчиках</string>
+    <string name="about_developers_2">1) Создатель приложения: MSH</string>
+    <string name="about_developers_3">2) Контакты: mikhail.chaykin.99@gmail.com</string>
+    <!--about developers screen end-->
+</resources>
