@@ -7,9 +7,9 @@
 
 
 - [How To Install](#anc1)
-- [How to Use](#anc2)
+- [How To Use](#anc2)
 - [How To Contribute](#anc3)
-- [Example of work](#anc4)
+- [Example Of Work](#anc4)
 
 ---
 Game [Tetris](https://en.wikipedia.org/wiki/Minesweeper_(video_game)), which is implemented as android application.</br>
@@ -29,7 +29,7 @@ Realized with a [Java 8](https://www.oracle.com/ru/java/technologies/javase/java
 
 <a id="anc2"></a>
 
-## How to Use
+## How To Use
 
 - For use [this application](https://play.google.com/store/apps/details?id=msh_TETR.my_work.tetr_by_msh) you must download it at your mobile device. After this, you need to open downloaded appliction.
 
@@ -47,7 +47,7 @@ Realized with a [Java 8](https://www.oracle.com/ru/java/technologies/javase/java
 
 <a id="anc4"></a>
 
-## Example of work
+## Example Of Work
 
 ![code](./docs/screen_for_readme_1.jpg)
 
